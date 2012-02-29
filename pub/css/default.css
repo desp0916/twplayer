@@ -1,0 +1,14 @@
+body { margin: 0; padding: 0;}
+div.clear {clear:both }
+div.navbar a { text-decoration: none; }
+div.navbar a:link, div.navbar a:visited, div.navbar a:hover { color: #fff; }
+div.navbar a:hover { color: #0f0; }
+div.navbar a:active { color: #f00; }
+div.navbar { clear:both;margin:0;padding:0;border:0;vertical-align:middle;line-height:40px;background-color:#000;color:#fff;height:40px;width:100%;/*position:fixed !important;*/ }
+div.error_message { color: #fff; background-color: #f00; width:50%; margin: 0 auto 0 auto; border: 1px solid #f00; clear: both;}
+#main_body { display:block;position:relative;top:0;left:0;margin:0;padding:0;border-bottom:1px solid #ccc; }
+#main_menu { display:block;border-right:1px solid #ccc;width:180px;min-height:300px;float:left;}
+#main_content { display:block; }
+div.css_table { display:table; }
+div.css_tr { display: table-row; }
+.css_td { display: table-cell; padding:2px; }
